@@ -1,3 +1,7 @@
+# NBS UPO Voice Call Assistant
+
+A call assistant built for NBS UPO to receive incoming calls, extract caller information, and handle caller requests efficiently.
+
 ## Setup
 
 ### 1. Clone the repository
