@@ -1,0 +1,55 @@
+{
+  "nbs-acad@ntu.edu.sg": [
+    "Streaming",
+    "Change of Programme",
+    "Change of Specialisation",
+    "Withdrawal of Minor or Second Major"
+  ],
+  "nbs_ue@ntu.edu.sg": [
+    "Examinations & Assessments",
+    "Registration of Calculators"
+  ],
+  "nbs-ug-outreach@ntu.edu.sg": [
+    "Outreach & Marketing"
+  ],
+  "nbs-studentcare@ntu.edu.sg": [
+    "Student Care"
+  ],
+  "nbsstudentlife@ntu.edu.sg": [
+    "Student Clubs"
+  ],
+  "nbs-ug-finsupport@ntu.edu.sg": [
+    "Financial Aid",
+    "Certification Letters",
+    "Form Endorsement"
+  ],
+  "nbs-careerservices@ntu.edu.sg": [
+    "Career Services"
+  ],
+  "nbs-ug-adm@ntu.edu.sg": [
+    "Admissions & Scholarships"
+  ],
+  "nbs-studentadmin@ntu.edu.sg": [
+    "Freshman Course Exemption",
+    "Leave of Absence (Short/Semester)",
+    "Withdrawal",
+    "Waiver"
+  ],
+  "nbsreg@ntu.edu.sg": [
+    "Class Matters",
+    "Course Registration",
+    "MOOC Credit Transfer"
+  ],
+  "nbsinboundexchange@ntu.edu.sg": [
+    "Inbound Exchange Students"
+  ],
+  "nbs-outboundexchange@ntu.edu.sg": [
+    "Outbound Exchange",
+    "Course Matching",
+    "Credit Transfer"
+  ],
+  "nbs-professionalexp@ntu.edu.sg": [
+    "Professional Attachment",
+    "Work-Study Degree (WSDeg)"
+  ]
+}
